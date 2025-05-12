@@ -1,27 +1,35 @@
-Análisis de Facturación:
+📊 Análisis de Ventas por Tienda
+Este proyecto presenta un análisis completo de facturación, ventas, productos, calificaciones y envíos en múltiples tiendas. A través de visualizaciones interactivas y estadísticas clave, se ofrece una visión general del rendimiento de cada tienda.
 
-Se calcula la facturación total para cada tienda.
-Se determina el número de productos válidos para cada tienda.
-Se presentan las cantidades en relación con el total general.
-Gráfico de barras mostrando la suma de precios por tienda y sus porcentajes.
-Ventas por Categoría:
+🔍 Funcionalidades del Análisis
+💰 Facturación Total por Tienda
+Cálculo de la facturación total individual.
 
-Se visualiza la distribución de ventas por categoría para cada tienda.
-Los gráficos muestran el porcentaje de ventas para cada categoría.
-Calificación promedio de la tienda:
+Conteo de productos válidos por tienda.
 
-Se calcula y muestra la calificación promedio de cada tienda.
-Se presenta un gráfico circular que ilustra la distribución de las calificaciones promedio.
-Productos más y menos vendidos:
+Porcentajes respecto al total general.
 
-Se identifican los productos más y menos vendidos de cada tienda.
-Se presentan visualizaciones que muestran las ventas totales de los productos principales y menos populares, además de su porcentaje en relación con el total de ventas.
-Envío promedio por tienda:
+Visualización con gráfico de barras.
 
-Se calcula y muestra el costo promedio de envío para cada tienda.
-Se presenta un gráfico de barras que visualiza los costos promedio.
-Cómo Ejecutar el Análisis
-Clonar el repositorio o descargar el archivo notebook.ipynb.
-Tener instaladas las dependencias.
-Ejecutar el notebook en un entorno compatible con Jupyter Notebook o Google Colab.
-Autor
+🛍️ Ventas por Categoría
+Distribución de ventas por categoría en cada tienda.
+
+Gráficos que muestran la proporción de ventas por categoría.
+
+🌟 Calificación Promedio
+Cálculo del promedio de calificación por tienda.
+
+Gráfico circular para ilustrar la distribución.
+
+📈 Productos Más y Menos Vendidos
+Identificación de productos más populares y menos vendidos por tienda.
+
+Visualizaciones con porcentajes de participación en ventas.
+
+🚚 Costo Promedio de Envío
+Cálculo del envío promedio por tienda.
+
+Representación en gráfico de barras.
+
+👤 Autor
+[Ricardo Andres Ulloa Araya]
